@@ -1,0 +1,14 @@
+== README
+
+Learning Goals
+
+* Examine default routes via rake routes
+* Create a route manually for a resource
+* Examine named routes and incorporate url_helpers: *_path and *_url
+* Incorporate rake routes to correlate named routes, URLs, and controller-action pairs
+* Connect resources in config/routes.rb to their corresponding controllers
+* Understand the HTTP methods and how they correlate to Rails RESTful actions
+
+* Use parameters in a controller context
+* Understand why accepting arbitrary user input is dangerous
+* Whitelist user-specified attributes with strong parameters
